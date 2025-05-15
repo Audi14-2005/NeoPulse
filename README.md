@@ -96,7 +96,7 @@ Forget being overloaded.
 ## 💻 Software Stack
 
 ```yaml
-Frontend: Flutter (NeoPulse App)
+Frontend: React Native (NeoPulse App)
 Backend: Supabase Realtime DB
 Cloud: Weather API + Auth
 Firmware: ESP-IDF (C/C++)
