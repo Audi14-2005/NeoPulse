@@ -1,5 +1,5 @@
 <!-- Header Typing Animation -->
-<h1 align="center"> **NeoPulse Proudly Introduce NeoPack a SmartBag** . Which takes care of your Inventory</h1>
+<h1 align="center">NeoPulse Proudly Introduce NeoPack a SmartBag.</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🎒+NeoPack+-+IoT+Smart+Backpack;Smarter+Packing.+Safer+Days.+Connected+Life." alt="Typing SVG" />
 </h1>
